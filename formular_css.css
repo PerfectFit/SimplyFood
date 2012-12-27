@@ -1,0 +1,40 @@
+body {
+	margin: 20 px 20 px;
+}
+
+#wrapper {
+	width: 320 px;
+	border: 5px;
+	border-style: solid;
+	border-color: blue;
+	padding: 10px;
+}
+
+#what {
+	float:left;
+	width: 33%;
+	}
+	
+#when {
+	float:left;
+	width: 33%;
+}
+
+#send {
+	float:left;
+	width: 33%;
+}
+
+#allergen {
+	width: 33%;
+	float: left;
+}
+
+#symptom {
+	width: 33%;
+	float: left;
+}
+
+#result {
+	clear: left;
+}
